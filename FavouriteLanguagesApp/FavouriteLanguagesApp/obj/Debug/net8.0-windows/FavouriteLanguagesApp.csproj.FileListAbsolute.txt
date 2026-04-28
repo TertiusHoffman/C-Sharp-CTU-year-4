@@ -1,0 +1,16 @@
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\net8.0-windows\FavouriteLanguagesApp.exe
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\net8.0-windows\FavouriteLanguagesApp.deps.json
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\net8.0-windows\FavouriteLanguagesApp.runtimeconfig.json
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\net8.0-windows\FavouriteLanguagesApp.dll
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\net8.0-windows\FavouriteLanguagesApp.pdb
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.Form1.resources
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.csproj.GenerateResource.cache
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.AssemblyInfoInputs.cache
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.AssemblyInfo.cs
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.csproj.CoreCompileInputs.cache
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.dll
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\refint\FavouriteLanguagesApp.dll
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.pdb
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\FavouriteLanguagesApp.genruntimeconfig.cache
+C:\Users\hoffm\OneDrive\Documents\CTU\CTU jaar 4\C#\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\net8.0-windows\ref\FavouriteLanguagesApp.dll
